@@ -20,6 +20,8 @@
 <a href="https://www.hackerrank.com/webaxol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="webaxol" height="30" width="40" />My Hackerrank Profile</a>
 </p>
 
+![Hi, I'm Gabriel Fuente](https://github.com/WebAxol/Webaxol/blob/main/hackerrank.png)
+
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
