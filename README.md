@@ -1,20 +1,22 @@
 ![Hi, I'm Gabriel Fuente](https://github.com/WebAxol/Webaxol/blob/main/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webaxol&label=Profile%20views&color=0e75b6&style=flat" alt="webaxol" /> </p>
-
-- 🔭 I’m currently working on [Mirroware](https://github.com/WebAxol/Mirroware)
-
-- 🌱 I’m currently learning **WordPress, AngularJS**
-
-- 💬 Ask me about **TypeScript, JavaScript, NodeJS**
-
-- 📫 How to reach me **webaxol@gmail.com**
-
-- ⚡ Fun fact **I am left handed (That ain't funny though)**
+<p align="left"> </p>
+<ul>
+  <li>🔭 I’m currently working on <a href="https://github.com/WebAxol/Mirroware">Mirroware</li>
+  <br>
+  <li>🌱 I’m currently learning <b>WordPress, AngularJS</b></li>
+  <br>
+  <li>💬 Ask me about <b>TypeScript, JavaScript, NodeJS</b></li>
+  <br>
+  <li>📫 How to reach me <b>webaxol@gmail.com</b></li>
+  <br>
+  <li>⚡ Fun fact <b>I am left handed (That ain't funny though)</b></li>
+  
+</ul>
 
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Online Certificates</h3>
 <p align="left">
 
 <a href="https://www.hackerrank.com/webaxol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="webaxol" height="30" width="40" />My Hackerrank Profile</a>
