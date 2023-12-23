@@ -29,16 +29,3 @@
 <hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=webaxol&show_icons=true&locale=en&layout=compact" alt="webaxol" /></p>
-
-Credits:
-
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18289
-Fork on GitHub
-5427
-
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
