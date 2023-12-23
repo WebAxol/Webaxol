@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Fuente</h1>
-<h3 align="center">A passionate web developer and student from Mexico</h3>
+![Hi, I'm Gabriel Fuente](https://github.com/WebAxol/Webaxol/blob/main/banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webaxol&label=Profile%20views&color=0e75b6&style=flat" alt="webaxol" /> </p>
 
