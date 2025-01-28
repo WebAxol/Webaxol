@@ -3,15 +3,15 @@
 </p>
 <p align="left"> </p>
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/WebAxol/Mirroware">Mirroware</li>
+  <li>🔭 I’m currently working on <a href="https://github.com/WebAxol/Mirroware">Mirroware</a> 🔥</li> 
   <br>
-  <li>🌱 I’m currently learning <b>WordPress, AngularJS</b></li>
+  <li>🌱 I’m currently learning <b>💵 Plaid API and 🛡️ AngularJS</b></li>
   <br>
-  <li>💬 Ask me about <b>TypeScript, JavaScript, NodeJS</b></li>
+  <li>💬 Ask me about <b>computer graphics, algorithms, design patterns</b></li>
   <br>
-  <li>📫 How to reach me <b>webaxol@gmail.com</b></li>
+  <li>📫 How to reach me: <b>webaxol@gmail.com</b></li>
   <br>
-  <li>⚡ Fun fact <b>I am left-handed (That ain't funny though)</b></li>
+  <li>⚡ Fun fact: <b>I am left-handed (That ain't funny though)</b></li>
   
 </ul>
 <hr>
