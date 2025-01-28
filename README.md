@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Hi, I am Gabriel Fuente" src="https://github.com/WebAxol/Webaxol/blob/main/1736537167989.jpg">
+  <img alt="Hi, I am Gabriel Fuente" src="https://github.com/WebAxol/Webaxol/blob/main/banner.png">
 </p>
 <p align="left"> </p>
 <ul>
