@@ -5,7 +5,7 @@
 <ul>
   <li>🔭 I’m currently working on <a href="https://github.com/WebAxol/Mirroware">Mirroware</a> 🔥</li> 
   <br>
-  <li>🌱 I’m currently learning <b>💵 Plaid API and 🛡️ AngularJS</b></li>
+  <li>🌱 I’m currently learning <b>Web Components and 🛡️ Online game development</b></li>
   <br>
   <li>💬 Ask me about <b>computer graphics, algorithms, design patterns</b></li>
   <br>
