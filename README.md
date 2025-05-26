@@ -40,7 +40,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="webaxol" height="30" width="40" />My Hackerrank Profile</a>
 </p>
 <p align="center">
-  <img align="center" src="https://github.com/WebAxol/Webaxol/blob/main/Hackerrank.png" alt="Webaxol - Hackerrank Profile">
+  <img align="center" src="https://github.com/WebAxol/Webaxol/blob/main/Hackerrank2.png" alt="Webaxol - Hackerrank Profile">
 </p>
 
 <hr>
