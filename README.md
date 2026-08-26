@@ -1,11 +1,11 @@
 <p align="center">
-  <img alt="Hi, I am Gabriel Fuente" src="https://github.com/WebAxol/Webaxol/blob/main/banner.png">
+  <img alt="Hi, I am Gabriel Fuente" src="https://github.com/WebAxol/Webaxol/blob/main/webaxol-banner.png">
 </p>
 <p align="left"> </p>
 <ul>
   <li>🔭 I’m currently working on <a href="https://github.com/WebAxol/Rayven">Rayven</a> 🔥</li> 
   <br>
-  <li>🌱 I’m currently learning <b>Web Components and 🛡️ Online game development</b></li>
+  <li>🌱 I’m currently learning <b>Multi-agentic systems</b></li>
   <br>
   <li>💬 Ask me about <b>computer graphics, algorithms, design patterns</b></li>
   <br>
