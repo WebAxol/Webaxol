@@ -44,9 +44,21 @@
 
 <hr>
 
-<h3 align="left">Featured</h3>
+<h3 align="left">Gallery</h3>
 
-![Rayven - ray-based renderer](https://github.com/WebAxol/Mirroware/blob/main/img/banner.png)
-![Autonomous Harvesting Agents](https://github.com/SRViche/AgroAgents-RetoJohnDeere/blob/main/img/banner.png)
+### Rayven — Ray-Based Renderer
+Rayven is a hybrid raycasting and raymarching engine for rendering mirrors, reflections, and complex environments in TypeScript.
+
+[![Rayven — Ray-Based Renderer](https://github.com/WebAxol/Mirroware/blob/main/img/banner.png)](https://github.com/WebAxol/rayven)
+
+### Autonomous Harvesting Agents
+An autonomous cotton-harvesting simulation featuring VR, intelligent harvesters and tractors, and agent-based pathfinding.
+
+[![Autonomous Harvesting Agents](https://github.com/SRViche/AgroAgents-RetoJohnDeere/blob/main/img/banner.png)](https://github.com/SRViche/AgroAgents-RetoJohnDeere)
+
+### Virtual 3D Museum — Coming Soon
+An interactive 3D museum experience currently under development, designed to bring virtual spaces and digital exhibits together.
+
+![Virtual 3D Museum](https://github.com/WebAxol/Webaxol/blob/main/presential.jpeg)
 
 
