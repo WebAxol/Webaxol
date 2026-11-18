@@ -51,7 +51,7 @@ Rayven is a hybrid raycasting and raymarching engine for rendering mirrors, refl
 
 [![Rayven — Ray-Based Renderer](https://github.com/WebAxol/Mirroware/blob/main/img/banner.png)](https://github.com/WebAxol/rayven)
 
-### [Rayven — Ray-Based Renderer](https://github.com/WebAxol/rayven)
+### [Autonomous Harvesting Agents](https://github.com/SRViche/AgroAgents-RetoJohnDeere)
 An autonomous cotton-harvesting simulation featuring VR, intelligent harvesters and tractors, and agent-based pathfinding.
 
 [![Autonomous Harvesting Agents](https://github.com/SRViche/AgroAgents-RetoJohnDeere/blob/main/img/banner.png)](https://github.com/SRViche/AgroAgents-RetoJohnDeere)
